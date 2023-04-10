@@ -1,0 +1,1 @@
+Follow instructions after you run the executable ("Rubicks2x2_solver.out") to get optimal solution for a certain configuration of your 2x2 rubicks cube.
